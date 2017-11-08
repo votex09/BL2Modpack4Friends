@@ -3076,11 +3076,11 @@
 
                             set GD_Weap_AssaultRifle.Name.Prefix_Bandit.Prefix_Box_BulletSpeed PartName aDDiNg?
 
-                            set GD_Weap_AssaultRifle.Name.Prefix_Dahl.Prefix_Box_BulletSpeed PartName Deep
+                            set GD_Weap_AssaultRifle.Name.Prefix_Dahl.Prefix_Box_BulletSpeed PartName Endless
 
-                            set GD_Weap_AssaultRifle.Name.Prefix_Jakobs.Prefix_Box_BulletSpeed PartName Shepard's
+                            set GD_Weap_AssaultRifle.Name.Prefix_Jakobs.Prefix_Box_BulletSpeed PartName Endless
 
-                            set GD_Weap_AssaultRifle.Name.Prefix_Torgue.Prefix_Box_BulletSpeed PartName Moist
+                            set GD_Weap_AssaultRifle.Name.Prefix_Torgue.Prefix_Box_BulletSpeed PartName OVERCOMPENSATING
 
                             set GD_Weap_AssaultRifle.Name.Prefix_Vladof.Prefix_Box_BulletSpeed PartName Unending
 
@@ -3176,13 +3176,13 @@
 
                             set GD_Weap_Launchers.Accessory.RL_Accessory_BodyMod_2_Acc ExternalAttributeEffects ((AttributeToModify=ResourcePoolAttributeDefinition'D_Attributes.AmmoResource_Rocket_Launcher.Ammo_Rocket_Launcher_RegenerationRate',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.066667,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))
 
-                            set GD_Weap_Launchers.Name.Prefix_Bandit.Prefix_BodyMod2_Accuracy PartName mOAR
+                            set GD_Weap_Launchers.Name.Prefix_Bandit.Prefix_BodyMod2_Accuracy PartName reloadin
 
-                            set GD_Weap_Launchers.Name.Prefix_Maliwan.Prefix_BodyMod2_Accuracy PartName Composed
+                            set GD_Weap_Launchers.Name.Prefix_Maliwan.Prefix_BodyMod2_Accuracy PartName Multipling
 
                             set GD_Weap_Launchers.Name.Prefix_Tediore.Prefix_BodyMod2_Accuracy PartName Productive
 
-                            set GD_Weap_Launchers.Name.Prefix_Torgue.Prefix_BodyMod2_Accuracy PartName PACKIN
+                            set GD_Weap_Launchers.Name.Prefix_Torgue.Prefix_BodyMod2_Accuracy PartName MOTHAFCKIN
 
                             set GD_Weap_Launchers.Name.Prefix_Vladof.Prefix_BodyMod2_Accuracy PartName Communistic
 
@@ -3230,11 +3230,11 @@
 
                             set GD_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Bipod1_Accuracy PartName Munitioning
 
-                            set GD_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Bipod1_Accuracy PartName Rational
+                            set GD_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Bipod1_Accuracy PartName Digistructing
 
                             set GD_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Bipod1_Accuracy PartName Bountiful
 
-                            set GD_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Bipod1_Accuracy PartName Prepared
+                            set GD_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Bipod1_Accuracy PartName Regenerating
 
                             set GD_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Bipod1_Accuracy PartName Production
 
@@ -16623,6 +16623,8 @@
         #</ptch>
 
     #</patchnotes>
+
+    say Please remember to execute the patch again if you are at the main menu!
 
 #</patch>
 
