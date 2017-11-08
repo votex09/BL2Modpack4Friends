@@ -3,7 +3,7 @@ Install instructions
 - First off, you'll need FilterTool.  
 	https://www.dropbox.com/sh/bva2028ban8u1hs/AAAwiSZmV3a7dn6yFdzuZkwoa?dl=0&preview=FilterTool.jar
 
-	It is java based, so you'll need java installed.  
+	>It is java based, so you'll need java installed.  
 	If you don't have java, https://java.com/en/download/
 
 
@@ -23,7 +23,7 @@ Install instructions
 	Select the dropdown box and select "Tilde" for your console key, this is important.
 
 	You may optionally select F6 if you desire.
-  
+
 
 -	For the games you have selected to hex edit, if you did not install the tool to either of your Binaries folders.
 	A window will open for you to select Borderlands2.exe and/or BorderlandsPreSequel.exe on your computer.
