@@ -1,16 +1,15 @@
 Install instructions
 
-- First off, you'll need FilterTool.
-
+- First off, you'll need FilterTool.  
 	https://www.dropbox.com/sh/bva2028ban8u1hs/AAAwiSZmV3a7dn6yFdzuZkwoa?dl=0&preview=FilterTool.jar
 
-	It is java based, so you'll need java installed.
+	It is java based, so you'll need java installed.  
 	If you don't have java, https://java.com/en/download/
 
 
 - Place the Jar in %Borderlands%/Binaries
 
-	%Borderlands% is where the game is installed.
+	%Borderlands% is where the game is installed.  
 	eg. (C:/Program Files (x86)/Steam/steamapps/common/Borderlands 2)
 
 
