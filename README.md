@@ -25,19 +25,16 @@ Install instructions
 -	For the games you have selected to hex edit, if you did not install the tool to either of your Binaries folders.
 	A window will open for you to select Borderlands2.exe and/or BorderlandsPreSequel.exe on your computer.
 
-		*The actions you have selected will be completed through a series of windows.
-		(Hexedit BL2 -> Hexedit TPS -> ConsoleKey BL2 -> ConsoleKey TPS)
-
-		Setting a key for the console allows it to be opened.
-
-		Tilde on the QWERTY (Standard) Keyboard is left of 1 and above TAB.
-		Hex editing the games allows the console to be used for mods since it
-
-		Removes the limitation that most commands will be said into chat.
-		Enables the set command to be used outside of offline mode.*
+	>The actions you have selected will be completed through a series of windows.
+	(Hexedit BL2 -> Hexedit TPS -> ConsoleKey BL2 -> ConsoleKey TPS)  
+	Setting a key for the console allows it to be opened.
+	Tilde on the QWERTY (Standard) Keyboard is left of 1 and above TAB.  
+	Hex editing the games allows the console to be used for mods since it
+	Removes the limitation that most commands will be said into chat.  
+	Enables the set command to be used outside of offline mode.
 
 - After the patch completes you can then close the program.
-		>You should not ever need this program ever again unless your install gets messed up or you want to edit things.
+	>You should not ever need this program ever again unless your install gets messed up or you want to edit things.
 
 - Installing the ModPack
 	>To be added
