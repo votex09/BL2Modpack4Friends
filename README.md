@@ -33,7 +33,7 @@ Install instructions
 	Removes the limitation that most commands will be said into chat.  
 	Enables the set command to be used outside of offline mode.
 
-- After the patch completes you can then close the program.  
+- After the patch completes you can then close the program.
 	>You should not ever need this program ever again unless your install gets messed up or you want to edit things.
 
 - Installing the ModPack
