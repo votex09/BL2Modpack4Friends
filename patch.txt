@@ -16624,7 +16624,7 @@
 
     #</patchnotes>
 
-    say Please remember to execute the patch again if you are at the main menu!
+    say Please remember to execute phase.shft again if you are at the main menu!
 
 #</patch>
 
