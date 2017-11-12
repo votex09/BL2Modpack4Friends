@@ -54,8 +54,8 @@ Install instructions
 
 	"X:/SteamLibrary/steamapps/common/Borderlands 2/Binaries/Win32/Borderlands2.exe" -log -debug -codermode -nosplash -exec=phase.shft
 
-	>This will launch the game with all needed arguments and auto-apply the regular patch (patch.txt)
-	Optionally you may change phase.shft to insanity.shft for randomized grenades and relics. (patchX.txt)
+	>This will launch the game with all needed arguments and auto-apply the regular patch (phase.shft)
+	Optionally you may change phase.shft to insanity.shft for randomized grenades and relics. (insanity.shft)
 
 	>Place this shortcut on your desktop, running the game through steam might have some bad side effects.
 	This way is the most sure fire way of having your cake and eating it too.
@@ -64,7 +64,7 @@ Install instructions
 
 	>When the game is at the main menu, press ~ (grave/tilde) to open the console.  This is where you will be executing the patch data.
 	Do not exec phase.shft/insanity.shft at the title screen (red borderlands logo) You will get a slew of errors and the patch will not work.
-	
+
 - IMPORTANT REMINDER
 	>ALWAYS ALWAYS ALWAYS remember to exec phase.shft/insanity.shft when you return to the main menu.
 	This rule should apply when changing characters, relogging, reloading areas for boss farming etc.
