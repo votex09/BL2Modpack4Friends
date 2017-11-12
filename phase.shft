@@ -1,2 +1,3 @@
-exec cooppatch.txt
-exec patch.txt
+exec mmomode
+exec patch
+exec reset
