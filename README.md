@@ -37,4 +37,42 @@ Install instructions
 	>You should not ever need this program ever again unless your install gets messed up or you want to edit things.
 
 - Installing the ModPack
-	>To be added
+	>Download all files from git.
+	Place all files in
+
+	%Borderlands2%/Binaries
+
+	>Open the Win32 folder in Binaries, right click Borderlands2.exe and make a shortcut.  Right click this shortcut and click properties.
+	In the shortcut tab, there is a field called "target"
+
+	>In this field AT THE END of what is already there, add the following:
+
+	-log -debug -codermode -nosplash -exec=phase.shft
+
+	>Note that there is a space before each "-" including the first one.
+	For example:
+
+	"X:/SteamLibrary/steamapps/common/Borderlands 2/Binaries/Win32/Borderlands2.exe" -log -debug -codermode -nosplash -exec=phase.shft
+
+	>This will launch the game with all needed arguments and auto-apply the regular patch (patch.txt)
+	Optionally you may change phase.shft to insanity.shft for randomized grenades and relics. (patchX.txt)
+
+	>Place this shortcut on your desktop, running the game through steam might have some bad side effects.
+	This way is the most sure fire way of having your cake and eating it too.
+
+- The Console
+
+	>When the game is at the main menu, press ~ (grave/tilde) to open the console.  This is where you will be executing the patch data.
+	Do not exec phase.shft/insanity.shft at the title screen (red borderlands logo) You will get a slew of errors and the patch will not work.
+	
+- IMPORTANT REMINDER
+	>ALWAYS ALWAYS ALWAYS remember to exec phase.shft/insanity.shft when you return to the main menu.
+	This rule should apply when changing characters, relogging, reloading areas for boss farming etc.
+
+	>If you do NOT do this, you run the risk of having your character reset, skills and/or items will be removed.
+	Please make backups often, the two .reg files that are supplied may aid you in doing that.
+
+	%Documents%/My Games/Borderlands 2/WillowGame/SaveData
+
+	>The above is where your character save data is stored. Sort by date to find your last played character.
+	I also recommend turning off steam cloud save.  You do not want steam overriding your saves at the wrong moment, trust me.
